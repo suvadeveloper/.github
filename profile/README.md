@@ -16,6 +16,6 @@ We build innovative solutions through:
 
 - Website: https://suvadevlopers.tech/
 - LinkedIn: https://www.linkedin.com/company/suva-devlopers/
-- Instagram: [Add Instagram URL]
+- Instagram: https://www.instagram.com/suva.developers/
 
 **Learn. Build. Innovate. Impact.**
